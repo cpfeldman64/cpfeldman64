@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cpfeldman64
-- 👀 I’m interested in learning to hack ethically
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning C
 
 
 <!---
