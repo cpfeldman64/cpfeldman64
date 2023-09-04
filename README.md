@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cpfeldman64
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 
 
 <!---
